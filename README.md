@@ -5,8 +5,8 @@ Sample repository to demonstrate usage of linux commands at a workshop
 < Linux is cool >
  \---------------\
         \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
+         \  (oo)\ _______
+            (__)\       )\ / \ 
                 ||----w |
                 ||     ||
 
