@@ -1,0 +1,5 @@
+Enter your name:
+
+Name: 0xKits
+Age: 18
+Major: ChemE
