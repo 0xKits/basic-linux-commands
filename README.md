@@ -1,15 +1,16 @@
 # basic-linux-commands
 Sample repository to demonstrate usage of linux commands at a workshop
-
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+```
+ _______________
 < Linux is cool >
- \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+ ---------------
+
         \   ^__^
-         \  (oo)\ _______
-            (__)\       )\ / \ 
+         \  (oo)\_______
+            (__)\       )\/\
                 ||----w |
                 ||     ||
-
+```
 ## Basic commands
 
 First and foremost, in order to get this repository on your computer, we have to use git.
