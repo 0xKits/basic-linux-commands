@@ -1,8 +1,8 @@
 # basic-linux-commands
 Sample repository to demonstrate usage of linux commands at a workshop
- _______________
+ \_______________
 < Linux is cool >
- _______________
+ \_______________
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
